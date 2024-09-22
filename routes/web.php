@@ -145,7 +145,4 @@ Route::group(
 
     # Contact
     Route::view('/contact-me', 'contact.index')->name('contact');
-
-    # testing
-    Route::view('/contact-me', 'contact.index')->name('contact');
 });
