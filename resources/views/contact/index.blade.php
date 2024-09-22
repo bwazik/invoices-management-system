@@ -56,8 +56,9 @@
                                     <ul class="list-unstyled ">
                                         <li class="list-item"><span class="text-info ti-email"></span>+201098617164</li>
                                         <li class="list-item"><span class="text-warning ti-direction-alt"></span>bwazik@outlook.com</li>
-                                        <li class="list-item"><span class="text-danger ti-linkedin"></span><a href="https://www.linkedin.com/in/bazoka">bazoka</a></li>
-                                        <li class="list-item"><span class="text-success ti-instagram"></span>/bwazik</li>
+                                        <li class="list-item"><a href="https://github.com/bwazik"><span class="text-info ti-github"></span>bwazik</a></li>
+                                        <li class="list-item"><a href="https://www.linkedin.com/in/bazoka"><span class="text-danger ti-linkedin"></span>bazoka</a></li>
+                                        <li class="list-item"><span class="text-success ti-instagram"></span>bwazik</li>
                                     </ul>
                                 </div>
                             </div>
