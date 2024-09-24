@@ -7,7 +7,7 @@
                         <script>
                             document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
                         </script>
-                    </span>. <a href="#"> Bazoka-Web </a> {{ trans('layouts/footer.all_rights_reserved') }}. </p>
+                    </span>. <a href="https://github.com/bwazik"> Abdullah Mohamed </a> {{ trans('layouts/footer.all_rights_reserved') }}. </p>
             </div>
         </div>
         <div class="col-md-6">
