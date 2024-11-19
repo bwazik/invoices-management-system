@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="HTML5 Template" />
     <meta name="description" content="Invoices System" />
-    <meta name="author" content="Abdullahv(Bazoka)" />
+    <meta name="author" content="Abdullah Mohamed" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     @include('layouts.head')
 </head>

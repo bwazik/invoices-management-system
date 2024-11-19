@@ -64,7 +64,7 @@
                                     <label class="mb-10" for="name">{{ trans('login.email') }}</label>
                                     <input id="email" type="email"
                                         class="form-control @error('email') is-invalid @enderror" name="email"
-                                        value="{{ old('email') }}" required autocomplete="email"
+                                        value="bwazik@outlook.com" required autocomplete="email"
                                         placeholder="bwazik@outlook.com" autofocus>
                                     @error('email')
                                         <span class="invalid-feedback" role="alert">
