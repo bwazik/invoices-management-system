@@ -17,7 +17,7 @@ class SectionsController extends Controller
 
         if(app()->getLocale() == 'en')
         {
-            $this->middleware('permission:Sections List', ['only' => ['index']]);
+            $this->middleware('permission:Sections', ['only' => ['index']]);
             $this->middleware('permission:Add Section', ['only' => ['add']]);
             $this->middleware('permission:Edit Section', ['only' => ['edit']]);
             $this->middleware('permission:Delete Section', ['only' => ['delete']]);

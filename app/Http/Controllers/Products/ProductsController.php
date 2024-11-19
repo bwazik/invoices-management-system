@@ -17,7 +17,7 @@ class ProductsController extends Controller
 
         if(app()->getLocale() == 'en')
         {
-            $this->middleware('permission:Products List', ['only' => ['index']]);
+            $this->middleware('permission:Products', ['only' => ['index']]);
             $this->middleware('permission:Add Product', ['only' => ['add']]);
             $this->middleware('permission:Edit Product', ['only' => ['edit']]);
             $this->middleware('permission:Delete Product', ['only' => ['delete']]);
